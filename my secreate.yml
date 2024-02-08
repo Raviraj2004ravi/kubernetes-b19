@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Secret
 metadata: 
-  name: my-secret
+  name: my-secretravi
 data:
   DATABASE_PASS: "cmF2aTEyMw=="
   DATABASE_USER: "cmF2aQ=="  
