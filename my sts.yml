@@ -20,7 +20,7 @@ spec:
               valueFrom:
                 configMapKeyRef:
                   name: ravi
-                 key: DB_PASSWORD
+                  key: DB_PASSWORD
             - name: USER_NAME
               valueFrom:
                 configMapKeyRef:
