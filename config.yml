@@ -7,4 +7,4 @@ data:
   DB_PASSWORD: "ravi123"
   DB_USER: "ravik"
   DB_HOST: "192.25.0.4"
-  DB_NAME: "studentapp"  
+  DB_NAME: "studentapp" 
